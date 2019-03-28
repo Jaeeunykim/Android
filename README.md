@@ -1,2 +1,7 @@
 # Android
-this git have Android Navigation, Animation, Fragment samples
+
+## PreBuild (재료)
+- ### Animation
+- ### Navigation
+- ### Fragment s
+
